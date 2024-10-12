@@ -1,4 +1,2 @@
-git clone my repository
-cd my repository
-cd git
-vi up_to_date
+git pull
+
